@@ -6,3 +6,5 @@ arquivo
 2g
 Esta é uma alteração geral
 Enviando a funcionalida b
+x
+Enviando a funcionalidade c
